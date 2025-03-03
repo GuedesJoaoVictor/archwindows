@@ -10,4 +10,4 @@ Então eu achei essas ferramentas para que eu pudesse manter o meu workflow do h
  * <a href="https://github.com/glzr-io/glazewm" target="_blank">GlazeWM</a>
 
 ## Zebar
- * <a href="https://github.com/glzr-io/zebar" target="_blank">Zebar</a>
+ * <a href="https://github.com/glzr-io/zebar" target="_blank">Zebar</a> 
