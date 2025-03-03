@@ -18,4 +18,5 @@ Então eu achei essas ferramentas para que eu pudesse manter o meu workflow do h
 ## Neovim
 
  * <a href="https://neovim.io/" target="_blank">NeoVim</a>
- * <a href="https://github.com/GuedesJoaoVictor/archwindows/tree/main/nvim" target="_blank">NeoVim Config</a>
+ * <a href="https://github.com/GuedesJoaoVictor/archwindows/tree/main/nvim" target="_blank">NeoVim Config</a><br>
+ Como normalmente quem usa esse estilo de window manager é por conta que está começando a usar o vim e não quer mais tirar as mãos do teclado para seu workflow, deixei também minhas configs do NeoVim.
