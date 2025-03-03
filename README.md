@@ -11,9 +11,10 @@ Então eu achei essas ferramentas para que eu pudesse manter o meu workflow do h
  * <a href="https://github.com/GuedesJoaoVictor/archwindows/tree/main/wezterm" target="_blank">GlazeWM Config</a>
 
 ## Zebar
- * <a href="https://github.com/glzr-io/zebar" target="_blank">Zebar</a> 
+ * <a href="https://github.com/glzr-io/zebar" target="_blank">Zebar</a><br> 
  Para o Zebar, eu não modifiquei nada (ainda) então caso você queira manipular, terá que fazer por conta própria, não é muito dificil pois é apenas css
 
-## Nvim
+## Neovim
 
  * <a href="https://neovim.io/" target="_blank">NeoVim</a>
+ * <a href="https://github.com/GuedesJoaoVictor/archwindows/tree/main/nvim" target="_blank">NeoVim Config</a>
