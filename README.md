@@ -5,6 +5,7 @@ Então eu achei essas ferramentas para que eu pudesse manter o meu workflow do h
 
 ## Meu terminal
  * <a href="https://wezterm.org/" target="_blank">Weztem</a>
+ * <a href="https://github.com/GuedesJoaoVictor/archwindows/tree/main/wezterm" target="_blank">Wezterm Config</a>
 
 ## Window Manager
  * <a href="https://github.com/glzr-io/glazewm" target="_blank">GlazeWM</a>
